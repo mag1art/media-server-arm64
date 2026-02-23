@@ -13,4 +13,12 @@ provision/lidarr/*
 provision/sonarr/*
 provision/radarr/*
 provision/plex/*
+provision/overseerr/*
+provision/flaresolverr/*
+provision/huntarr/*
+provision/suggestarr/*
+
+provision/.env.*
+
+!provision/.env.defaults
 
